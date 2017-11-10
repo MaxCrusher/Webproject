@@ -21,6 +21,18 @@
 .App-intro {
   font-size: large;
 }
+.Head
+{
+  width: 100%;
+  background-color: rgb(128, 225, 255);
+  height: 50px;
+  border-bottom-color: black;
+  border-bottom-style: groove;
+  border-bottom-width: 5px;
+  padding: 20 px;
+  color: white;
+}
+
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
