@@ -10,6 +10,12 @@ ul#list > li
   padding: 0;
 }
 
+
 p{
   height: 50px;
+}
+
+.li{
+  margin-top: 50px;
+
 }
