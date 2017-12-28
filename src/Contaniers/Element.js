@@ -6,13 +6,8 @@ class Element extends Component{
         super(props);
         this.state = {value: ''};
         this.handleChange = this.handleChange.bind(this);
-       // this.handleSubmit = this.handleSubmit.bind(this)
-
       }
         handleChange = (e, { value }) => this.setState({ value })
-    /*  handleChange(event) {
-        this.setState({value: event.target.value});
-      }*/
     render()
     {
         return(

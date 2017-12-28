@@ -11,7 +11,6 @@ class ContainerVibor extends Component
     return(
         <div>
             <Element lable1= 'РГР' lable2= 'КП' lable3= 'ВКР'/>
-            
         </div>
     );
     }
